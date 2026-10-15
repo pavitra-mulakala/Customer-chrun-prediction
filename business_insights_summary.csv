@@ -1,0 +1,10 @@
+Insight_Area,Finding
+Provider-wise churn,Airtel churns most at 48.03%
+Contract-wise churn,Month-to-month churns most at 67.37%
+Satisfaction correlation,corr = -0.253
+Monthly charge impact,"highest churn band: (300.10900000000004, 594.767] at 48.42%"
+Tenure impact,earliest band 47.12% vs longest band 46.66%
+Revenue impact,"47.37% of monthly revenue, 255,048,109 annualized"
+Priority segment,"('High Value', 'High Risk') at 55.73% churn"
+High-risk active customers,"2,086 customers, 1,897,924 monthly revenue at risk"
+Top churn reason,Slow internet speed: 6299 customers
